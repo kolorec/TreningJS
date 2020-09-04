@@ -1,0 +1,10 @@
+#display {
+    height: 50%;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    background-color: blueviolet;
+    font-weight: 600;
+    outline-color: red;
+    outline-width: 2px;
+}
